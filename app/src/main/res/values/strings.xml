@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRCodeApps</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="input_text_for_qr_code">Input text for QR Code</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="your_data_from_scan_will_appear_here">Your data from scan will appear here</string>
+</resources>
